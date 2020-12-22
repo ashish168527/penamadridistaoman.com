@@ -685,13 +685,13 @@ strong, b{
 	-moz-border-radius: 2px;
 	-webkit-border-radius: 2px;
 	background: #219FDA;
-	background: -moz-linear-gradient(top, #ae8641 0%, #C92127 100%);
-	background: -webkit-gradient(left top, left bottom, color-stop(0%, #ae8641), color-stop(100%, #C92127));
-	background: -webkit-linear-gradient(top, #ae8641 0%, #C92127 100%);
-	background: -o-linear-gradient(top, #ae8641 0%, #C92127 100%);
-	background: -ms-linear-gradient(top, #ae8641 0%, #C92127 100%);
-	background: linear-gradient(to bottom, #ae8641 0%, #C92127 100%);
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ae8641', endColorstr='#C92127', GradientType=0 );
+	background: -moz-linear-gradient(top, #ae8641 0%, #ae8641 100%);
+	background: -webkit-gradient(left top, left bottom, color-stop(0%, #ae8641), color-stop(100%, #ae8641));
+	background: -webkit-linear-gradient(top, #ae8641 0%, #ae8641 100%);
+	background: -o-linear-gradient(top, #ae8641 0%, #ae8641 100%);
+	background: -ms-linear-gradient(top, #ae8641 0%, #ae8641 100%);
+	background: linear-gradient(to bottom, #ae8641 0%, #ae8641 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ae8641', endColorstr='#ae8641', GradientType=0 );
 }
 .collection-callout a:hover{
 	background: #000;
@@ -1364,13 +1364,13 @@ td.tw10{
 	-moz-border-radius: 2px;
 	-webkit-border-radius: 2px;
 	background: #ae8641;
-	background: -moz-linear-gradient(top, #ae8641 0%, #C92127 100%);
-	background: -webkit-gradient(left top, left bottom, color-stop(0%, #ae8641), color-stop(100%, #C92127));
-	background: -webkit-linear-gradient(top, #ae8641 0%, #C92127 100%);
-	background: -o-linear-gradient(top, #ae8641 0%, #C92127 100%);
-	background: -ms-linear-gradient(top, #ae8641 0%, #C92127 100%);
-	background: linear-gradient(to bottom, #ae8641 0%, #C92127 100%);
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ae8641', endColorstr='#C92127', GradientType=0 );
+	background: -moz-linear-gradient(top, #ae8641 0%, #ae8641 100%);
+	background: -webkit-gradient(left top, left bottom, color-stop(0%, #ae8641), color-stop(100%, #ae8641));
+	background: -webkit-linear-gradient(top, #ae8641 0%, #ae8641 100%);
+	background: -o-linear-gradient(top, #ae8641 0%, #ae8641 100%);
+	background: -ms-linear-gradient(top, #ae8641 0%, #ae8641 100%);
+	background: linear-gradient(to bottom, #ae8641 0%, #ae8641 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ae8641', endColorstr='#ae8641', GradientType=0 );
 }
 .pagination a:hover,
 .pagination a.active{
@@ -1395,13 +1395,13 @@ td.tw10{
 	-moz-border-radius: 2px;
 	-webkit-border-radius: 2px;
 	background: #219FDA;
-	background: -moz-linear-gradient(top, #ae8641 0%, #C92127 100%);
-	background: -webkit-gradient(left top, left bottom, color-stop(0%, #ae8641), color-stop(100%, #C92127));
-	background: -webkit-linear-gradient(top, #ae8641 0%, #C92127 100%);
-	background: -o-linear-gradient(top, #ae8641 0%, #C92127 100%);
-	background: -ms-linear-gradient(top, #ae8641 0%, #C92127 100%);
-	background: linear-gradient(to bottom, #ae8641 0%, #C92127 100%);
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ae8641', endColorstr='#C92127', GradientType=0 );
+	background: -moz-linear-gradient(top, #ae8641 0%, #ae8641 100%);
+	background: -webkit-gradient(left top, left bottom, color-stop(0%, #ae8641), color-stop(100%, #ae8641));
+	background: -webkit-linear-gradient(top, #ae8641 0%, #ae8641 100%);
+	background: -o-linear-gradient(top, #ae8641 0%, #ae8641 100%);
+	background: -ms-linear-gradient(top, #ae8641 0%, #ae8641 100%);
+	background: linear-gradient(to bottom, #ae8641 0%, #ae8641 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ae8641', endColorstr='#ae8641', GradientType=0 );
 }
 .loadmore a:hover{
 	background: #000;
